@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Jun 2025 13:43:50 at https://www.themesindustry.com/html/studiox/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://www.themesindustry.com/html/studiox/index.html -O1 "F:\Web Sites\NewCL" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:44:20	Error: 	"Not Found" (404) at link https://www.themesindustry.com/html/studiox/css/AjaxLoader.gif (from https://www.themesindustry.com/html/studiox/css/owl.carousel.css)
+13:44:20	Error: 	"Not Found" (404) at link https://www.themesindustry.com/html/studiox/css/openhand.cur (from https://www.themesindustry.com/html/studiox/css/settings.css)
+13:44:20	Error: 	"Not Found" (404) at link https://www.themesindustry.com/html/studiox/css/closedhand.cur (from https://www.themesindustry.com/html/studiox/css/settings.css)
+13:44:20	Error: 	"Not Found" (404) at link https://www.themesindustry.com/html/studiox/assets/gridtile.png (from https://www.themesindustry.com/html/studiox/css/settings.css)
+13:44:20	Error: 	"Not Found" (404) at link https://www.themesindustry.com/html/studiox/assets/gridtile_white.png (from https://www.themesindustry.com/html/studiox/css/settings.css)
+13:44:20	Error: 	"Not Found" (404) at link https://www.themesindustry.com/html/studiox/assets/gridtile_3x3.png (from https://www.themesindustry.com/html/studiox/css/settings.css)
+13:44:20	Error: 	"Not Found" (404) at link https://www.themesindustry.com/html/studiox/assets/gridtile_3x3_white.png (from https://www.themesindustry.com/html/studiox/css/settings.css)
+13:44:20	Error: 	"Not Found" (404) at link https://www.themesindustry.com/html/studiox/assets/coloredbg.png (from https://www.themesindustry.com/html/studiox/css/settings.css)
+13:44:20	Error: 	"Not Found" (404) at link https://www.themesindustry.com/html/studiox/assets/loader.gif (from https://www.themesindustry.com/html/studiox/css/settings.css)
+13:44:20	Error: 	"Not Found" (404) at link https://www.themesindustry.com/html/studiox/css/blank.gif (from https://www.themesindustry.com/html/studiox/css/jquery.fancybox.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 seconds : 93 links scanned, 82 files written (6807335 bytes overall) [5601349 bytes received at 175042 bytes/sec], 1834276 bytes transferred using HTTP compression in 46 files, ratio 30%, 18.6 requests per connection
+(10 errors, 0 warnings, 0 messages)
